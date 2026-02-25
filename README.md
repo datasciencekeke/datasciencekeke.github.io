@@ -93,7 +93,7 @@ See `CHANGELOG.md` for revision history.
 
 If you wish to reference this handbook:
 
-> Ke, G. (2026). *Practical Scientific Experimentation in AI/ML.* Version X.X.X.
+> Ke, S. (2026). *Practical Scientific Experimentation in AI/ML.* Version X.X.X.
 
 Citation metadata is provided in `CITATION.cff`.
 
@@ -101,7 +101,7 @@ Citation metadata is provided in `CITATION.cff`.
 
 ## License
 
-This work is released under GNU.
+This work is released under GPL-3.0 license.
 
 ---
 
