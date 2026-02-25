@@ -78,3 +78,47 @@ Each chapter includes:
 ## Versioning
 
 This project follows academic-style semantic versioning:
+
+MAJOR.MINOR.PATCH
+
+- 0.x → Teaching infrastructure phase  
+- 1.x → Stable methodological reference  
+- 2.x → Expanded research-level framework  
+
+See `CHANGELOG.md` for revision history.
+
+---
+
+## Citation
+
+If you wish to reference this handbook:
+
+> Ke, G. (2026). *Practical Scientific Experimentation in AI/ML.* Version X.X.X.
+
+Citation metadata is provided in `CITATION.cff`.
+
+---
+
+## License
+
+This work is released under GNU.
+
+---
+
+## Scope
+
+This handbook focuses primarily on supervised machine learning under stochastic training settings.
+
+It does not attempt to provide:
+
+- A full statistical theory treatment  
+- A comprehensive causal inference framework  
+- Regulatory or domain-specific compliance guidance  
+
+---
+
+## Contributing
+
+Suggestions and corrections are welcome via issues or pull requests.
+
+Conceptual direction and major revisions remain curated.
