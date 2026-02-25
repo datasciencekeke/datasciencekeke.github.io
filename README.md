@@ -1,6 +1,7 @@
 # Practical Scientific Experimentation in AI / ML / Data Science
 
 A concise field guide for conducting rigorous, reproducible, and scientifically valid experiments in machine learning and data science.
+
 Note: This is a work-in-progress site. Content is subject to frequent changes/updates.
 
 ---
